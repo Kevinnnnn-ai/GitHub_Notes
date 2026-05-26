@@ -17,9 +17,9 @@ project/
 ├── README.md        # Project documentation and setup guide
 ├── LICENSE          # Legal usage and copyright
 ├── requirements.txt # Project dependencies (Python)
+├── res/             # Project dependencies (Python)
 ├── src/             # Source code (the heart of the app)
 │   ├── api/         # Network requests and backend integration
-│   ├── assets/      # Static files (images, fonts, icons)
 │   ├── components/  # Reusable UI elements or micro-modules
 │   ├── config/      # Environment and configuration variables
 │   ├── styles/      # Global stylesheets or themes
